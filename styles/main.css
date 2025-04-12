@@ -38,11 +38,12 @@ body {
   }
 
   /* 注册页面特定样式 */
-.form-container {
-    background: white;
+  .form-container {
+    border: 1px solid #ddd;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    overflow: hidden;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
   }
   
   /* 隐藏 Google 表单的页脚和标题 */
